@@ -15,15 +15,11 @@ input, textarea{
 		width: 280px;
 }
 
-.field{
+.input{
 	border: solid 1px #ccc;
 	padding: 10px;
 }
 
-.field:focus{
-		border-color: #18A383;
-}
-
-.center-content{
-		text-align: center;
+.center{
+	text-align: center;
 }
