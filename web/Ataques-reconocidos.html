@@ -28,44 +28,21 @@
 
 <h2 id="MITM">2- MITM</h2>
 
-<p>Su nombre Man In The Middle, en este tipo de ataques vamos a tener dos victimas, aunque solo 1 sera la afectada. Funciona de la siguiente manera haremos V es nuestro equipo victima y R sera el router y A sera nuestro atacante. A le dira a R que es V y a V le dira que es R. De tal forma que espiara sus comunicaciones </p>
+<p>Su nombre Man In The Middle, en este tipo de ataques vamos a tener dos victimas, aunque solo 1 sera la afectada. Funciona de la siguiente manera haremos V es nuestro equipo victima y R sera el router y A sera nuestro atacante. A le dira a R que es V y a V le dira que es R. De tal forma que espiara sus comunicaciones. </p>
 
-<p>La complejidad de estos ataques es media puesto se necesitan algunos conocimientos previos y los firewalls y otros dispositivos son capaces de detectar estos ataques y mitigarlos</p>
+<p>La complejidad de estos ataques es media puesto se necesitan algunos conocimientos previos y los firewalls y otros dispositivos son capaces de detectar estos ataques y mitigarlos.</p>
 
 
 
-<h2 id="module-loader-webpack">Module loader: Webpack</h2>
+<h2 id="Ransomware">3- Ransomware</h2>
 
-<p>There are some online coding sandboxes
-(<a href="https://www.webpackbin.com/">Webpackbin</a> and
-<a href="https://codesandbox.io/">CodeSandbox</a>) which supports NPM packages
-through server-side Webpack. Their approach is essentially as follows:</p>
+<p>Su nombre que empiza con Ransom en español rescate, nos da una pista de lo que hace este ataque. Por si no te ha quedado del todo claro este ataque secuestra los datos de tu ordenador y le pide un rescate para recuperarlos.</p>
 
-<p>First they have a <em>packager</em> which takes a list of fully resolved packages
-(e.g <code>react@16.0.0,react-dom@16.0.0</code>), generates a <code>package.json</code>,
-install packages and dependencies with <code>yarn</code>, and then uses Webpack to
-build a <a href="https://webpack.js.org/plugins/dll-plugin/">DLL package</a>. A DLL
-package is a way of bundling all files into a single Webpack bundle.
-Packaging can take a while (&gt;10s), but it’s only needed once per request
-and you can cache the produced package indefinitely.</p>
+<p>La complejidad es Media/alta pues se necesitan unos conocimientos de programación y criptografia.</p>
 
-<p>When you want to execute your app.js you send it to the server, generate
-a Webpack configuration (which includes a reference to the DLL package)
-and Webpack will resolve everything for you.</p>
+<p>Aunque responder ante el es medianamente fácil si realizamos copias de seguridad periodicas.</p>
 
-<p>There are two big disadvantages with this approach:</p>
-
-<ul>
-  <li>Building the initial package can take a <em>long</em> time. This needs
-to be done on the server-side and its scalability is limited by how
-many servers you have.</li>
-  <li>Packages can only be cached as a whole. This means that if you add one
-small dependency you must still create a whole new package.</li>
-</ul>
-
-<p>We created a prototype together with Christian Alfoni (the creator of
-Webpackbin), but had some pending work when we discovered a different
-approach.</p>
+<p>Muy popular ultimamente tanto es así que el mes de noviembre de 2019 <a href="https://www.elconfidencial.com/tecnologia/2019-11-04/everis-la-ser-ciberataque-ransomware-15_2312019/">2 grandes empresas fueron atacadas.</a></p>
 
 
 <h2 id="module-loader-unpkg--systemjs">Module loader: Unpkg + SystemJS</h2>
