@@ -89,6 +89,20 @@ article > blockquote {
     padding-left: 10px;
 }
 
+#navigation { float:right; }
+#navigation ul{ float:left; list-style-type: none; padding-top:37px; font-size:14px;}
+#navigation ul li{ float:left; display:inline; height:21px; images/nav-border.gif) repeat-y right 0; padding:0 20px 0 0; margin-right:20px; position:relative; }
+#navigation ul li.last{background:transparent; padding-right:0; margin-right:0; }
+#navigation ul li a{ float:left; color:#fff; text-decoration: none;}
+
+#navigation ul li a em { width:90px; height:20px;  position:absolute; top:33px; left:-55px;}
+#navigation ul li.last a em { left:-45px;}
+#navigation ul li a span { font-size:0; line-height:0; width:0; height:0; position:absolute; left:50%;}
+
+#navigation ul li a.hover{ color:#f6cb44;}
+
+#navigation ul li a.hover em{ background-position:0 0}
+
 /* General styling */
 
 html, body {
