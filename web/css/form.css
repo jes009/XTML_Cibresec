@@ -30,3 +30,11 @@ input, textarea{
 .center{
 	text-align:center;
 }
+
+.submit{
+	background-color:#085e6f;
+	border-radius:10px;
+	color:#085e6f;
+	padding:20px;
+	font-size:1em;
+}
