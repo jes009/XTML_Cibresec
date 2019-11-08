@@ -33,9 +33,9 @@ input, textarea{
 
 .submit{
 	font-color:black;
+	font-size:1em;
 	background-color:#085e6f;
 	border-radius:5px;
 	color:#085e6f;
 	padding:5px;
-	font-size:1em;
 }
