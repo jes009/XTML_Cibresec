@@ -110,6 +110,7 @@ h1#logo a{ display:block; height:90px; text-indent: -4000px;  }
     font-family: Arial, sans-serif;
     font-size: 12px;
     line-height: 20px;
+    height: 90px;
     color: 
     #252525;
 }
