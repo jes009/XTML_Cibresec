@@ -16,19 +16,8 @@
     <img src="https://cdn.pixabay.com/photo/2017/01/20/03/21/startup-1993900_960_720.png">
 </figure>
 
-<p>Being able to use NPM packages has
-been a frequently requested feature, but it turns out to be surprisingly
-technically difficult to implement. In this article I will explain how
-we tackled the problem and the final solution we ended up with.</p>
 
-
-<p>Our solution (inspired by StackBlitz) runs almost entirely on the
-client-side. Dependency resolution is done server-side, but
-fetching NPM files, parsing <code>require()</code>, resolving require paths and
-creating a bundle is all done at the client. This (combined with
-IndexedDB caching) gives a smooth experience with very low latency.</p>
-
-<h2 id="what-is-involved-in-supporting-npm">What is involved in supporting NPM?</h2>
+<h2 id="what-is-involved-in-supporting-npm">DDOS</h2>
 
 <p>There are two very distinct steps in supporting NPM: Dependency
 resolution and module loading.</p>
