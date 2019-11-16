@@ -7,7 +7,9 @@ body{
 
 form{
 	background-color:white;
-	border:1px solid black;
+	border:1px solid;
+	border-style:inset;
+	border-color:black;
 	border-radius:10px;
 	color:#57595a;
 	font-size:0.9em;
