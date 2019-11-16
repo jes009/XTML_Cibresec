@@ -18,6 +18,14 @@ form{
 	width:320px;
 }
 
+form h1{
+	text-align:center;
+	color:black;
+	font-weight:normal;
+	font-size:2em;
+	font-family:Arial cursive;
+}
+
 input, textarea{
 	border:0;
 	outline:none;
