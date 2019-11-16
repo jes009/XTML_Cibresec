@@ -28,6 +28,10 @@ input, textarea{
 	padding:1em;
 }
 
+input.checkbox{
+	width:1em;
+}
+
 .center{
 	text-align:center;
 }
