@@ -1,3 +1,13 @@
+/* EMPIEZA: Código Css de #Header copiado de "Atques reconocidos" y realizado por Joaquín*/
+#header {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    line-height: 20px;
+    height: 90px;
+    color: #252525;
+}
+/*TERMINA: Código Css de #Header copiado de "Atques reconocidos" y realizado por Joaquín*/
+
 body{
 	font-color:#57595a;
 	font-family:Arial;
