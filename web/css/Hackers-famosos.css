@@ -1,1 +1,52 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    line-height: 1.4;
+}
 
+h1, h2, h3,{
+	font-family:Helvetica; 
+}
+
+p{
+	font-family:Helvetica;
+	letter-spacing: .01rem;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 21px;
+    line-height: 1.58;
+    letter-spacing: -.003em;
+    color: rgba(0,0,0,.84);
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Bloque de navegación */
+
+#navigation { float:right; }
+#navigation ul{ float:left; list-style-type: none; padding-top:37px; font-size:14px;}
+#navigation ul li{ float:left; display:inline; height:21px; images/nav-border.gif) repeat-y right 0; padding:0 20px 0 0; margin-right:20px; position:relative; }
+#navigation ul li.last{background:transparent; padding-right:0; margin-right:0; }
+#navigation ul li a{ float:left; color:#000; text-decoration: none;}
+
+#navigation ul li a em { width:90px; height:20px;  position:absolute; top:33px; left:-55px;}
+#navigation ul li.last a em { left:-45px;}
+#navigation ul li a span { font-size:0; line-height:0; width:0; height:0; position:absolute; left:50%;}
+
+#navigation ul li a.hover{ color:#f6cb44;}
+
+#navigation ul li a.hover em{ background-position:0 0}
+
+
+#header {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    line-height: 20px;
+    height: 90px;
+    color: 
+    #252525;
+
+ h2.nombrehacker{
+ 	font-family:Helvetica;
+ 	font-size: 40px;
+ }
