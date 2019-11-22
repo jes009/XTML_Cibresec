@@ -6,6 +6,10 @@ html, body {
 
 h1, h2, h3,{
 	font-family:Helvetica; 
+	padding-right: 150px;
+	padding-left: 150px;
+	text-align: center;
+	color: red;
 }
 
 p{
@@ -19,6 +23,10 @@ p{
     color: rgba(0,0,0,.84);
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
+	padding-right: 150px;
+	padding-left: 150px;
+	text-align: center;
+	
 }
 
 /* Bloque de navegación */
@@ -50,3 +58,39 @@ p{
  	font-family:Helvetica;
  	font-size: 40px;
  }
+h1 {
+color:#0DA7EE;
+}
+h2 {
+color:#04F68F;
+}
+h3 {
+color:#F68F04;
+}
+	
+
+
+img.fotohack{
+width: 400px; 
+height: 300px;
+padding-left: 190px;
+	}	
+
+html{
+background-color: green;	
+text-align: center;
+
+	}
+
+iframe{
+	padding-left: 150px;
+	}
+
+
+
+
+
+
+
+
+
