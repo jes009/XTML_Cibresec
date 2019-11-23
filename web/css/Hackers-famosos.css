@@ -43,6 +43,7 @@ html{
 background-color:#D09311;
 }
 }
-.nocenter {width:50%;dotted #f00;padding:10px;margin:auto;}
-center{margin:16px 0;}
+
+.nocenter{width:50%;padding:8px;margin:auto;}
+
 
