@@ -29,6 +29,8 @@
 img .fotohack{
 	margin-left: auto;
 	margin-right: auto;
+	width: 400px; 
+	height: 300px;
 }
 
 p{
@@ -36,7 +38,7 @@ p{
 }
 
 html{
-background-color:#16B7D7;
+background-color:#D09311;
 }
 body {
 text-align: center;
