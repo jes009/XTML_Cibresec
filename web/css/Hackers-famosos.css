@@ -50,6 +50,7 @@ body{text-align:center;}
 height: 300px;
 padding-left: 190px;}
 
-h1{font-size:250%;font-family:copperplate;}
-h2{font-size:150%;font-family:copperplate;}
-h3{font-size:100%;font-family:copperplate;}
+h1{font-size:250%;font-family:copperplate;backgorund-color:#129CC5;}
+h2{font-size:150%;font-family:copperplate;backgorund-color:#06F186;}
+h3{font-size:100%;font-family:copperplate;backgorund-color:#4E0389;}
+
