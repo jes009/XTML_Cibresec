@@ -25,76 +25,7 @@
     color: 
     #252525;
 
- h2.nombrehacker{
- 	font-family:Helvetica;
- 	font-size: 40px;
- }
-h1 {
-color:#0DA7EE;
-font-size: 350%;
-}
-h2 {
-color:#04F68F;
-}
-h3 {
-color:#F68F04;
-}
-	
-
-
-img.fotohack{
-width: 400px; 
-height: 300px;
-padding-left: 190px;
-	}	
-
-html{
-background-color: #C67C03;	
-text-align: center;
-
-	}
-
-iframe{
-	padding-left: 150px;
-	}
-html, body {
-    margin: 0;
-    padding: 0;
-    line-height: 1.4;
-	background-color:#621382;
-}
-
-h1, h2, h3,{
-	font-family:Helvetica; 
-	padding-right: 150px;
-	padding-left: 150px;
-	text-align: center;
-}
-
-p{
-	font-family:Helvetica;
-	letter-spacing: .01rem;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 21px;
-    line-height: 1.58;
-    letter-spacing: -.003em;
-    color: rgba(0,0,0,.84);
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-	padding-right: 150px;
-	padding-left: 150px;
-	text-align: center;
-	
-}
-
-.center {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-
+ 
 
 
 
