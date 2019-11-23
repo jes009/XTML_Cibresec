@@ -39,12 +39,10 @@ font-family:Helvetica;
 font-size:16px;	
 }
 
-html{
-background-color:#D09311;
-}
+html{background-color:#464542;}
 
 body{text-align:center;}
 
-.nocenter{width:50%;padding:8px;margin:auto;}
+.nocenter{width:50%;padding:8px;margin:auto;background-color:8D520E;}
 
 
