@@ -24,14 +24,7 @@
     height: 90px;
     color: 
     #252525;
-}
-
-img > .fotohack{
-	margin-left: auto;
-	margin-right: auto;
-	width: 400px; 
-	height: 300px;
-	
+}	
 }
 
 p{
@@ -48,7 +41,10 @@ body{text-align:center;}
 
 .fotohack{width: 400px; 
 height: 300px;
-padding-left: 190px;}
+padding-left: 190px;
+margin-left: auto;
+margin-right: auto;
+}
 
 h1{font-size:250%;font-family:copperplate;backgorund-color:#129CC5;}
 h2{font-size:150%;font-family:copperplate;backgorund-color:#06F186;}
