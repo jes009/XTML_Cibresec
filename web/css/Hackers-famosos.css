@@ -87,11 +87,12 @@ p{
 	text-align: center;
 	
 }
-article {
-    display: grid;
-    grid-template-columns: 1fr 1fr 10px 440px 10px 1fr 1fr;
-}
 
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 
 
 
