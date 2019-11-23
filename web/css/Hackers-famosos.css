@@ -45,6 +45,6 @@ background-color:#D09311;
 body {
 text-align: center;
 }
-.nocenter {width:50%;border:1px dotted #f00;padding:8px;margin:auto;}
+.nocenter {width:50%; dotted #f00;padding:8px;margin:auto;}
 center{margin:16px 0;}
 
