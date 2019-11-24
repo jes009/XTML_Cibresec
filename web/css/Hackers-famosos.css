@@ -42,11 +42,11 @@ body{text-align:center;}
 .nocenter{width:50%;padding:8px;margin:auto;background-color:#E5A105;text-align:justify;}
 
 .fotohack{width: 400px; 
-height: 300px; center;
+height: 300px;
 }
 
 h1{font-size:600%;font-family:copperplate;background-color:#129CC5;text-align:center;}
 h2{font-size:200%;font-family:copperplate;background-color:#D75F0C;}
 h3{font-size:200%;font-family:copperplate;background-color:#25D884;}
 
-iframe{frameborder="0"; center;}
+iframe{frameborder="0";}
