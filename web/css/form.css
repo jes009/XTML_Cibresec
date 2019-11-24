@@ -47,7 +47,7 @@ form h1{
 	color:black;
 	font-weight:normal;
 	font-size:2.4em;
-	font-family:Arial, 'Pinyon Script', cursive;
+	font-family: 'Pinyon Script', Arial, cursive;
 }
 
 input, textarea{
