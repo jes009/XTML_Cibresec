@@ -35,7 +35,7 @@
 <td>
 	<xsl:element name="img">
          <xsl:attribute name="src">
-            <xsl:value-of select="./img/."/>
+            <xsl:value-of select="/img/."/>
          </xsl:attribute>
         </xsl:element>
 </td>
