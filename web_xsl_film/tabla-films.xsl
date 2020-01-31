@@ -36,7 +36,7 @@
          <xsl:attribute name="src">
             <xsl:value-of select="."/>
          </xsl:attribute>
-      </xsl:element>
+        </xsl:element>
 </td>
 </xsl:template>
 
