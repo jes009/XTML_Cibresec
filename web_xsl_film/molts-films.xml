@@ -3,11 +3,15 @@
 <films>
   <film>
     <titol llengua="castellà" variant="argentina">Machuca</titol>
+    
+    <imagen>
+	 machuca.jpg   
+    </imagen>
+	  
     <any>2004</any>
     <durada unitat="minuts">120</durada>
     <pais>Chile</pais>
- 
-
+	  
     <direccio>
       <director>
         <nom>Andrés</nom>
@@ -69,6 +73,10 @@
     <titol llengua="castellà">Por quién doblan las campanas</titol>
     <titoloriginal llengua="anglés" variant="EUA">For Whom the Bell Tolls</titoloriginal>
 
+    <imagen>
+	 por-quien-doblan.jpg  
+    </imagen>	  
+	  
     <any>1943</any>
     <durada unitat="minuts">170</durada>
     <pais>EUA</pais>
@@ -128,6 +136,10 @@
     <titol llengua="castellà">La milla verde</titol>
     <titoloriginal llengua="anglés" variant="EUA">The Green Mile</titoloriginal>
 
+    <imagen>
+	 milla-verde.jpg
+    </imagen>		  
+	  
     <any>1999</any>
     <durada unitat="minuts">180</durada>
     <pais>EUA</pais>
@@ -193,6 +205,10 @@
     <titol llengua="castellà">Cadena Perpetua</titol>
     <titoloriginal llengua="anglés" variant="EUA">The Shawshank Redemption</titoloriginal>
 
+    <imagen>
+	 cadena-perpetua.jpg
+    </imagen>	  
+	  
     <any>1994</any>
     <durada unitat="minuts">142</durada>
     <pais>EUA</pais>
@@ -257,6 +273,10 @@
     <titol llengua="castellà">Regreso al futuro</titol>
     <titoloriginal llengua="anglés" variant="EUA">Back to the future</titoloriginal>
 
+    <imagen>
+	 regreso-futuro.jpg
+    </imagen>	
+	
     <any>1985</any>
     <durada unitat="minuts">116</durada>
     <pais>EE.UU</pais>
@@ -316,6 +336,10 @@
   <film>
     <titol llengua="castellà">Pacific Rim</titol>
 
+    <imagen>
+	 pacific-rim.jpg
+    </imagen>	  
+	  
     <any>2013</any>
     <durada unitat="minuts">131</durada>
     <pais>EE.UU</pais>
@@ -375,6 +399,11 @@
  <film>
     <titol llengua="castellà">Funny Games</titol>
     <titoloriginal llengua="inglés">Funny Games</titoloriginal>
+   
+    <imagen>
+	funny-games.jpg
+    </imagen>
+	 
     <any>2007</any>
     <durada unitat="minuts">111</durada>
     <pais>Estados Unidos</pais>
@@ -437,6 +466,10 @@
     <titol llengua="castellà">El Señor de los Anillos: La Comunidad del Anillo</titol>
     <titoloriginal llengua="anglés" variant="EUA">The Lord of the Rings: The Fellowship of the Ring</titoloriginal>
 
+    <imagen>
+	senyor-anillos.jpg
+    </imagen>	  
+	  
     <any>2001</any>
     <durada unitat="minuts">180</durada>
     <pais>Estados Unidos</pais>
@@ -501,6 +534,11 @@
 <film>
     <titol llengua="castellà" variant="ingles">El retrato de Dorian Gray</titol>
 	<titoloriginal llengua="anglés" variant="EUA">The Picture of Dorian Gray</titoloriginal>
+   
+    <imagen>
+	retrato-dorian.jpg
+    </imagen>	
+	
     <any>2009</any>
     <durada unitat="minuts">112</durada>
     <pais>Reino Unido</pais>
@@ -577,6 +615,10 @@
     <titol llengua="castellà">Zombies Party</titol>
     <titoloriginal llengua="anglés" variant="EUA">Shaun of the Dead</titoloriginal>
 
+    <imagen>
+	zombies-party.jpg
+    </imagen>	  
+	  
     <any>2004</any>
     <durada unitat="minuts">99</durada>
     <pais>Reino Unido</pais>
@@ -651,6 +693,11 @@
 <film>
     <titol llengua="castella">la vida es bella</titol>
     <titoloriginal llengua="italiana">La vita è bella</titoloriginal>
+   
+    <imagen>
+	vida-bella.jpg
+    </imagen>
+	
     <any>1997</any>
     <durada unitat="minuts">117</durada>
     <pais>italia</pais>
@@ -713,6 +760,11 @@
   
    <film>
     <titol llengua="angles">2 Guns</titol>
+   
+    <imagen>
+	2guns.jpg
+    </imagen>
+	   
     <any>2013</any>
     <durada unitat="minuts">109</durada>
     <pais>USA</pais>
@@ -775,6 +827,11 @@
 <film>
     <titol llengua="castellà">Alien, el octavo pasajero</titol>
     <titoloriginal llengua="anglés" variant="EUA">Alien</titoloriginal>
+   
+    <imagen>
+	alien.jpg
+    </imagen>	
+	
     <any>1979</any>
     <durada unitat="minuts">116</durada>
     <pais>Estados Unidos</pais>
@@ -830,6 +887,11 @@
  <film>
     <titol llengua="castellà">Django desencadenado</titol>
     <titoloriginal llengua="anglés" variant="EUA">Django Unchained</titoloriginal>
+    
+    <imagen>
+	django.jpg
+    </imagen>	 
+	 
     <any>2012</any>
     <durada unitat="minuts">165</durada>
     <pais>Estados Unidos</pais>
@@ -886,6 +948,11 @@
   
   <film>
     <titol llengua="castellà">Celda 211</titol>
+   
+    <imagen>
+	celda211.jpg
+    </imagen>	  
+	  
     <any>2009</any>
     <durada unitat="minuts">110</durada>
     <pais>España</pais>
@@ -951,6 +1018,11 @@
   <film>
     <titol llengua="castellà">Capitán Phillips</titol>
 	<titoloriginal llengua="anglés">Captain Phillips</titoloriginal>
+   
+    <imagen>
+	capitan-phillips.jpg
+    </imagen>  
+	  
     <any>2013</any>
     <durada unitat="minuts">135</durada>
     <pais>Estados Unidos</pais>
@@ -1006,6 +1078,11 @@
  <film>
     <titol llengua="castellà">Braveheart</titol>
     <titoloriginal llengua="àngles" variant="EUA">Braveheart</titoloriginal>
+    
+    <imagen>
+	braveheart.jpg
+    </imagen>
+	 
     <any>1995</any>
     <durada unitat="minuts">177</durada>
     <pais>Estados Unidos, Irlanda</pais>
@@ -1063,6 +1140,11 @@
   <film>
     <titol llengua="castellà">El efecto mariposa</titol>
     <titoloriginal llengua="àngles" variant="EUA">The Butterfly Effect</titoloriginal>
+   
+    <imagen>
+	efecto-mariposa.jpg
+    </imagen>  
+	  
     <any>2004</any>
     <durada unitat="minuts">113</durada>
     <pais>Estados Unidos</pais>
@@ -1127,6 +1209,11 @@
 
 <film>
     <titol llengua="Castellano" variant="españa">La educacion de las hadas</titol>
+    
+    <imagen>
+	educacion-hadas.jpg
+    </imagen>
+	
     <any>2006</any>
     <durada unitat="minuts">103</durada>
     <pais>España</pais>
@@ -1170,9 +1257,16 @@
     </generes>
     <sinopsi>En un vuelo de Alicante a Barcelona, Nicolás encuentra no sólo a Ingrid, la mujer de su vida, sino también al hijo que siempre habría querido tener. Él es inventor de juguetes; ella, viuda reciente de un capitán de aviación muerto en Iraq, es una ornitóloga que estudia en Cataluña las migraciones de las palomas torcaces. Y Raúl, su hijo de ocho años, es un niño dotado de una gran fantasia. La historia de amor de los tres será perfecta. Sin embargo, Ingrid, de repente, decide que todo se ha acabado. (FILMAFFINITY)</sinopsi>
   </film>
-  <film>
+  
+	
+<film>
     <titol llengua="Castellano">Yo, Frankenstein</titol>
     <titoloriginal llengua="Ingles" variant="EUA">I, Frankenstein</titoloriginal>
+   
+    <imagen>
+	frankenstein.jpg
+    </imagen>
+	
     <any>2014</any>
     <durada unitat="minuts">93</durada>
     <pais>EEUU</pais>
@@ -1225,6 +1319,11 @@
 <film>
 <titol llengua="castellà">La Isla</titol>
   <titoloriginal llengua="anglés" variant="EUA">The Island</titoloriginal>
+   
+    <imagen>
+	isla.jpg
+    </imagen>
+	
     <any>2005</any>
     <durada unitat="minuts">136</durada>
     <pais>Estats Units</pais>
@@ -1287,6 +1386,11 @@
   <film>
   <titol llengua="castellà">Terminator 2: El juicio final</titol>
     <titoloriginal llengua="anglés" variant="EUA">Terminator 2: Judgment Day</titoloriginal>
+   
+    <imagen>
+	terminator2.jpg
+    </imagen>  
+	  
     <any>1991</any>
     <durada unitat="minuts">137</durada>
     <pais>Estats Units</pais>
@@ -1349,6 +1453,10 @@
     <titol llengua="castellano">El lobo de Wall Street</titol>
     <titoloriginal llengua="ingles" variant="EUA">The Wolf of Wall Street</titoloriginal>
 
+    <imagen>
+	lobo-wall-street.jpg
+    </imagen>	
+	
     <any>2013</any>
     <durada unitat="minuts">250</durada>
     <pais>EEUU</pais>
@@ -1407,6 +1515,10 @@
     <titol llengua="castellano">El Atlas de las nubes</titol>
     <titoloriginal llengua="ingles" variant="EEUU">Cloud Atlas</titoloriginal>
 
+    <imagen>
+	atlas-nubes.jpg
+    </imagen>	  
+	  
     <any>2012</any>
     <durada unitat="minuts">190</durada>
     <pais>EEUU</pais>
