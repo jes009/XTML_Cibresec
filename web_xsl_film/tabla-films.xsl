@@ -7,18 +7,31 @@
  <h1>Titulos de Peliculas:</h1>
   <table>
    <tr>
-	<th>Titulo</th>
+   	<th>Titulo</th>
 	<th>Imagenes</th>
    </tr>
    <tr>
-    	<td><xsl:value-of select="titol"/></td>
-	<td></td>
+   	<xsl:apply-templates/>
    </tr>
   </table>
 </body>
 </html>
 </xsl:template>
 
-<xsl:template match="titol">
- <td><xsl:value-of select="."/></td>
+<xsl:apply-templates select="titol">
+<xsl:sort select="titol"/>
+	<td><xsl:value-of select="."/></td>
+</xsl:apply-templates>
+	
+<xsl:apply-templates select="imatge">
+<xsl:sort select="imatge"/>
+<td>
+ <img>
+    <xsl:attribute name="./img">
+      <xsl:value-of select="."/>
+    </xsl:attribute>
+ </img>
+</td>
+</xsl:apply-templates>
+	
 </xsl:stylesheet>
