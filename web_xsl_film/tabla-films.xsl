@@ -8,7 +8,7 @@
    <link rel="stylesheet" href="./css/style.css"> 
   <title>Tabla de imagenes peliculas</title>
 </head>
- <h1>Titulos de Peliculas:</h1>
+ <h2>Titulos de Peliculas:</h2>
   <table>
    <tr>
    	<th>Titulo</th>
