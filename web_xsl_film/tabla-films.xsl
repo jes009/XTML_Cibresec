@@ -11,29 +11,33 @@
 	<th>Imagenes</th>
    </tr>
    <tr>
-   	<xsl:apply-templates select="titol">
-	<xsl:sort select="titol"/>
-	</xsl:apply-templates>
+   	<xsl:apply-templates/>
    </tr>
   </table>
 </body>
 </html>
 </xsl:template>
 
-<xsl:template match="titol">
-	<td><xsl:value-of select="."/></td>	
-<xsl:apply-templates>
---<xsl:sort select=""/>
-</xsl:apply-templates>
+<xsl:template>
+ <xsl:apply-templates select="titol">
+ <xsl:sort select="titol"/>
+ </xsl:apply-templates>
+
+ <xsl:apply-templates select="imagen"/>
 </xsl:template>
 	
-<xsl:template>
+<xsl:template match="titol">
+	<td><xsl:value-of select="."/></td>	
+</xsl:template>
+	
+<xsl:template match="imagen">
 <td>
- <img>
-    <xsl:attribute name="./img">
-      <xsl:value-of select="."/>
-    </xsl:attribute>
- </img>
+	<xsl:element name="img">
+         <xsl:attribute name="src">
+            <xsl:value-of select="."/>
+         </xsl:attribute>
+      </xsl:element>
 </td>
 </xsl:template>
+
 </xsl:stylesheet>
