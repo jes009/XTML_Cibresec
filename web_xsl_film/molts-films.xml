@@ -74,7 +74,7 @@
     <titoloriginal llengua="anglés" variant="EUA">For Whom the Bell Tolls</titoloriginal>
 
     <imagen>
-	 por-quien-doblan.jpg  
+	 ./img/por-quien-doblan.jpg  
     </imagen>	  
 	  
     <any>1943</any>
@@ -137,7 +137,7 @@
     <titoloriginal llengua="anglés" variant="EUA">The Green Mile</titoloriginal>
 
     <imagen>
-	 milla-verde.jpg
+	 ./img/milla-verde.jpg
     </imagen>		  
 	  
     <any>1999</any>
@@ -206,7 +206,7 @@
     <titoloriginal llengua="anglés" variant="EUA">The Shawshank Redemption</titoloriginal>
 
     <imagen>
-	 cadena-perpetua.jpg
+	 ./img/cadena-perpetua.jpg
     </imagen>	  
 	  
     <any>1994</any>
@@ -274,7 +274,7 @@
     <titoloriginal llengua="anglés" variant="EUA">Back to the future</titoloriginal>
 
     <imagen>
-	 regreso-futuro.jpg
+	 ./img/regreso-futuro.jpg
     </imagen>	
 	
     <any>1985</any>
@@ -337,7 +337,7 @@
     <titol llengua="castellà">Pacific Rim</titol>
 
     <imagen>
-	 pacific-rim.jpg
+	 ./img/pacific-rim.jpg
     </imagen>	  
 	  
     <any>2013</any>
@@ -401,7 +401,7 @@
     <titoloriginal llengua="inglés">Funny Games</titoloriginal>
    
     <imagen>
-	funny-games.jpg
+	./img/funny-games.jpg
     </imagen>
 	 
     <any>2007</any>
@@ -467,7 +467,7 @@
     <titoloriginal llengua="anglés" variant="EUA">The Lord of the Rings: The Fellowship of the Ring</titoloriginal>
 
     <imagen>
-	senyor-anillos.jpg
+	./img/senyor-anillos.jpg
     </imagen>	  
 	  
     <any>2001</any>
@@ -536,7 +536,7 @@
 	<titoloriginal llengua="anglés" variant="EUA">The Picture of Dorian Gray</titoloriginal>
    
     <imagen>
-	retrato-dorian.jpg
+	./img/retrato-dorian.jpg
     </imagen>	
 	
     <any>2009</any>
@@ -616,7 +616,7 @@
     <titoloriginal llengua="anglés" variant="EUA">Shaun of the Dead</titoloriginal>
 
     <imagen>
-	zombies-party.jpg
+	./img/zombies-party.jpg
     </imagen>	  
 	  
     <any>2004</any>
@@ -695,7 +695,7 @@
     <titoloriginal llengua="italiana">La vita è bella</titoloriginal>
    
     <imagen>
-	vida-bella.jpg
+	./img/vida-bella.jpg
     </imagen>
 	
     <any>1997</any>
@@ -762,7 +762,7 @@
     <titol llengua="angles">2 Guns</titol>
    
     <imagen>
-	2guns.jpg
+	./img/2guns.jpg
     </imagen>
 	   
     <any>2013</any>
@@ -829,7 +829,7 @@
     <titoloriginal llengua="anglés" variant="EUA">Alien</titoloriginal>
    
     <imagen>
-	alien.jpg
+	./img/alien.jpg
     </imagen>	
 	
     <any>1979</any>
@@ -889,7 +889,7 @@
     <titoloriginal llengua="anglés" variant="EUA">Django Unchained</titoloriginal>
     
     <imagen>
-	django.jpg
+	./img/django.jpg
     </imagen>	 
 	 
     <any>2012</any>
@@ -950,7 +950,7 @@
     <titol llengua="castellà">Celda 211</titol>
    
     <imagen>
-	celda211.jpg
+	./img/celda211.jpg
     </imagen>	  
 	  
     <any>2009</any>
@@ -1020,7 +1020,7 @@
 	<titoloriginal llengua="anglés">Captain Phillips</titoloriginal>
    
     <imagen>
-	capitan-phillips.jpg
+	./img/capitan-phillips.jpg
     </imagen>  
 	  
     <any>2013</any>
@@ -1080,7 +1080,7 @@
     <titoloriginal llengua="àngles" variant="EUA">Braveheart</titoloriginal>
     
     <imagen>
-	braveheart.jpg
+	./img/braveheart.jpg
     </imagen>
 	 
     <any>1995</any>
@@ -1142,7 +1142,7 @@
     <titoloriginal llengua="àngles" variant="EUA">The Butterfly Effect</titoloriginal>
    
     <imagen>
-	efecto-mariposa.jpg
+	./img/efecto-mariposa.jpg
     </imagen>  
 	  
     <any>2004</any>
@@ -1211,7 +1211,7 @@
     <titol llengua="Castellano" variant="españa">La educacion de las hadas</titol>
     
     <imagen>
-	educacion-hadas.jpg
+	./img/educacion-hadas.jpg
     </imagen>
 	
     <any>2006</any>
@@ -1264,7 +1264,7 @@
     <titoloriginal llengua="Ingles" variant="EUA">I, Frankenstein</titoloriginal>
    
     <imagen>
-	frankenstein.jpg
+	./img/frankenstein.jpg
     </imagen>
 	
     <any>2014</any>
@@ -1321,7 +1321,7 @@
   <titoloriginal llengua="anglés" variant="EUA">The Island</titoloriginal>
    
     <imagen>
-	isla.jpg
+	./img/isla.jpg
     </imagen>
 	
     <any>2005</any>
@@ -1388,7 +1388,7 @@
     <titoloriginal llengua="anglés" variant="EUA">Terminator 2: Judgment Day</titoloriginal>
    
     <imagen>
-	terminator2.jpg
+	./img/terminator2.jpg
     </imagen>  
 	  
     <any>1991</any>
@@ -1454,7 +1454,7 @@
     <titoloriginal llengua="ingles" variant="EUA">The Wolf of Wall Street</titoloriginal>
 
     <imagen>
-	lobo-wall-street.jpg
+	./img/lobo-wall-street.jpg
     </imagen>	
 	
     <any>2013</any>
@@ -1516,7 +1516,7 @@
     <titoloriginal llengua="ingles" variant="EEUU">Cloud Atlas</titoloriginal>
 
     <imagen>
-	atlas-nubes.jpg
+	./img/atlas-nubes.jpg
     </imagen>	  
 	  
     <any>2012</any>
