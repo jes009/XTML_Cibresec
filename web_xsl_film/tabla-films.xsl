@@ -6,8 +6,8 @@
 <body>
   <head>
    <link rel="stylesheet" href="./css/style.css"> 
-  <title></title>
-
+  <title>Tabla de imagenes peliculas</title>
+</head>
  <h1>Titulos de Peliculas:</h1>
   <table>
    <tr>
@@ -18,7 +18,6 @@
    	<xsl:apply-templates/>
    </tr>
   </table>
-</head>
 </body>
 </html>
 </xsl:template>
