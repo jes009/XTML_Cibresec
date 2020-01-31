@@ -5,19 +5,20 @@
 <html>
 <body>
  <h1>Titulos de Peliculas:</h1>
-  <table border="1">
+  <table>
    <tr>
 	<th>Titulo</th>
-	<th>Titulo Original</th>
+	<th>Imagenes</th>
    </tr>
-   <xsl:for-each select="films/film">
    <tr>
     	<td><xsl:value-of select="titol"/></td>
-		<td><xsl:value-of select="titoloriginal"/></td>
+	<td></td>
    </tr>
-   </xsl:for-each>
   </table>
 </body>
 </html>
 </xsl:template>
+
+<xsl:template match="titol">
+ <td><xsl:value-of select="."/></td>
 </xsl:stylesheet>
