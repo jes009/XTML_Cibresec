@@ -23,10 +23,7 @@
 </xsl:template>
 
 <xsl:template>
- <xsl:apply-templates select="titol">
- <xsl:sort select="titol"/>
- </xsl:apply-templates>
-
+ <xsl:apply-templates select="titol"/>
  <xsl:apply-templates select="imagen"/>
 </xsl:template>
 	
