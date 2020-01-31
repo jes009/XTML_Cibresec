@@ -4,6 +4,10 @@
 <xsl:template match="/films/film">
 <html>
 <body>
+  <head>
+   <link rel="stylesheet" href="./css/style.css"> 
+  <title></title>
+
  <h1>Titulos de Peliculas:</h1>
   <table>
    <tr>
@@ -14,6 +18,7 @@
    	<xsl:apply-templates/>
    </tr>
   </table>
+</head>
 </body>
 </html>
 </xsl:template>
@@ -41,3 +46,4 @@
 </xsl:template>
 
 </xsl:stylesheet>
+
