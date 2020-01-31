@@ -1,0 +1,1463 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="plantilla.xsl"?>
+<films>
+  <film>
+    <titol llengua="castellà" variant="argentina">Machuca</titol>
+    <any>2004</any>
+    <durada unitat="minuts">120</durada>
+    <pais>Chile</pais>
+ 
+
+    <direccio>
+      <director>
+        <nom>Andrés</nom>
+        <cognom1>Wood</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Andrés</nom>
+        <cognom1>Wood</cognom1>
+      </guionista>
+      <guionista>
+        <nom>Roberto</nom>
+        <cognom1>Brodsky</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>José Miguel</nom>
+        <cognom1>Miranda</cognom1>
+      </compositor>
+      <compositor>
+        <nom>José Miguel</nom>
+        <cognom1>Tobar</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Miguel J.</nom>
+        <cognom1>Littín</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Matías</nom>
+        <cognom1>Quer</cognom1>
+      </actor>
+      <actriu>
+        <nom>Manuela</nom>
+        <cognom1>Martelli</cognom1>
+     </actriu>
+    </repartiment>
+
+    <productora>Coproducción Chile-España...</productora>
+
+    <generes>
+      <genere>drama</genere>
+      <genere>històrica</genere>
+    </generes>
+
+    <sinopsi>Santiago de Chile, 1973. Gonzalo Infante y Pedro Machuca, dos niños de once años, viven en dos mundos diametralmente opuestos: el primero en un barrio residencial, y el segundo en un poblado ilegal a pocas manzanas de distancia. El director de un colegio religioso privado, el padre McEnroe, es un idealista que, con el apoyo de algunos padres, intenta integrar en el elitista colegio a chicos procedentes del poblado. Es así como Pedro Machuca y Gonzalo Infante llegan a ser compañeros de clase y amigos en un momento de gravísíma división y enfrentamiento dentro de la sociedad chilena.</sinopsi>
+  </film>
+
+  <film>
+    <titol llengua="castellà">Por quién doblan las campanas</titol>
+    <titoloriginal llengua="anglés" variant="EUA">For Whom the Bell Tolls</titoloriginal>
+
+    <any>1943</any>
+    <durada unitat="minuts">170</durada>
+    <pais>EUA</pais>
+
+    <direccio>
+      <director>
+        <nom>Sam</nom>
+        <cognom1>Wood</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Dudley</nom>
+        <cognom1>Nichols</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Victor</nom>
+        <cognom1>Young</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Ray</nom>
+        <cognom1>Rennahan</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Gary</nom>
+        <cognom1>Cooper</cognom1>
+      </actor>
+      <actriu>
+        <nom>Ingrid</nom>
+        <cognom1>Bergman</cognom1>
+      </actriu>
+    </repartiment>
+
+    <productora>Paramount Pictures</productora>
+
+    <generes>
+      <genere>aventures</genere>
+      <genere>drama</genere>
+      <genere>historica</genere>
+      <genere>romanç</genere>
+    </generes>
+
+    <sinopsi>El estadounidense Robert Jordan (Gary Cooper), apodado "El inglés", que lucha en la guerra Civil Española (1936-1939) dentro de la Brigada Lincoln, es un experto en acciones especiales detrás de las líneas enemigas: ha volado trenes, redes eléctricas, depósitos de armas... En vísperas de una gran ofensiva, el mando republicano le encarga la destrucción de un puente, la principal arteria logística del ejército de Franco. María (Ingrid Bergman), una joven salvada del pelotón de ejecución, y Pilar, la esposa de Pablo, un hombre rudo y testarudo, participarán en la operación y mantendrán el espíritu de lucha hasta el final de la contienda.</sinopsi>
+  </film>
+
+  <film>
+    <titol llengua="castellà">La milla verde</titol>
+    <titoloriginal llengua="anglés" variant="EUA">The Green Mile</titoloriginal>
+
+    <any>1999</any>
+    <durada unitat="minuts">180</durada>
+    <pais>EUA</pais>
+
+    <direccio>
+      <director>
+        <nom>Fraank</nom>
+        <cognom1>Darabont</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Fraank</nom>
+        <cognom1>Darabont</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Thomas </nom>
+        <cognom1>Newman</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>David </nom>
+        <cognom1>Tattersall</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Tom</nom>
+        <cognom1>Hanks</cognom1>
+      </actor>
+      <actor>
+        <nom>Michael Clarke</nom>
+        <cognom1>Duncan</cognom1>
+      </actor>
+       <actor>
+        <nom>David</nom>
+        <cognom1>Morse</cognom1>
+      </actor>
+       <actor>
+        <nom>Doug</nom>
+        <cognom1>Hutchison</cognom1>
+      </actor>
+    </repartiment>
+
+    <productora>Warner Bros</productora>
+
+    <generes>
+      <genere>Drama</genere>
+    </generes>
+
+    <sinopsi>Ambientada en el sur de los Estados Unidos, en plena Depresión. Paul Edgecomb es un funcionario de prisiones encargado de vigilar la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla eléctrica. John Coffey, un gigantesco negro acusado de asesinar brutalmente a dos hermanas de nueve años está esperando su inminente ejecución. Tras una personalidad ingenua e infantil, Coffey esconde un prodigioso don sobrenatural. Cuando se presenta la ocasión de ponerlo en práctica, Edgecomb aprenderá que los milagros existen, incluso en los lugares más insospechados.</sinopsi>
+  </film>
+  
+  
+  <film>
+    <titol llengua="castellà">Cadena Perpetua</titol>
+    <titoloriginal llengua="anglés" variant="EUA">The Shawshank Redemption</titoloriginal>
+
+    <any>1994</any>
+    <durada unitat="minuts">142</durada>
+    <pais>EUA</pais>
+
+    <direccio>
+      <director>
+        <nom>Fraank</nom>
+        <cognom1>Darabont</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Fraank</nom>
+        <cognom1>Darabont</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Thomas </nom>
+        <cognom1>Newman</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Roger</nom>
+        <cognom1>Deakins</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Tim</nom>
+        <cognom1>Robbins</cognom1>
+      </actor>
+      <actor>
+        <nom>Morgan</nom>
+        <cognom1>Freeman</cognom1>
+      </actor>
+       <actor>
+        <nom>Bob</nom>
+        <cognom1>Gunton</cognom1>
+      </actor>
+       <actor>
+        <nom>James</nom>
+        <cognom1>Withmore</cognom1>
+      </actor>
+    </repartiment>
+
+    <productora>Columbia Pictures</productora>
+
+    <generes>
+      <genere>Drama</genere>
+    </generes>
+
+    <sinopsi>Acusado del asesinato de su mujer, Andrew Dufresne (Tim Robbins), tras ser condenado a cadena perpetua, es enviado a la cárcel de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros de prisión, especialmente de Red (Morgan Freeman), el jefe de la mafia de los sobornos.</sinopsi>
+  </film>
+
+<film>
+    <titol llengua="castellà">Regreso al futuro</titol>
+    <titoloriginal llengua="anglés" variant="EUA">Back to the future</titoloriginal>
+
+    <any>1985</any>
+    <durada unitat="minuts">116</durada>
+    <pais>EE.UU</pais>
+
+    <direccio>
+      <director>
+        <nom>Robert</nom>
+        <cognom1>Zemeckis</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Bob</nom>
+        <cognom1>Gale</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Alan</nom>
+        <cognom1>Silvestri</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Dean</nom>
+        <cognom1>Cundey</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Michael</nom>
+        <cognom1>J. Fox</cognom1>
+      </actor>
+      <actriu>
+        <nom>Lea</nom>
+        <cognom1>Thompson</cognom1>
+     </actriu>
+    </repartiment>
+
+    <productora>Universal Pictures</productora>
+
+    <generes>
+      <genere>Ciencia ficcion</genere>
+      <genere>Comedia</genere>
+      <genere>Fantastico</genere>
+      <genere>Aventuras</genere>
+    </generes>
+
+    <sinopsi>Todo comienza cuando un joven llamado Marti, trabajando junto a un cientifico el cual es conocido como "Doc" trabajan juntos en un laboratorio, entonces un dia Doc sin qu Marti llegue a enterarse roba plutonio para construir un proyecto que tenia pensado desde que era pequeño, una maquina del tiempo, el plutonio era necesario para el condensador de fluzo, un aparato que diseño cuando de pequeño se dio un golpe en la cabeza y vio una vision del futuro, finalmente construye una maquina del tiempo en un Delorean, en los que viviran muchas aventuras. </sinopsi>
+  </film>
+
+
+  <film>
+    <titol llengua="castellà">Pacific Rim</titol>
+
+    <any>2013</any>
+    <durada unitat="minuts">131</durada>
+    <pais>EE.UU</pais>
+
+    <direccio>
+      <director>
+        <nom>Guillermo</nom>
+        <cognom1>Del Toro</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Travis</nom>
+        <cognom1>Beacham</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Ramin</nom>
+        <cognom1>Djawadi</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Guillermo</nom>
+        <cognom1>Navarro</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Charlie</nom>
+        <cognom1>Hunnam</cognom1>
+      </actor>
+      <actriu>
+        <nom>Idris</nom>
+        <cognom1>Elba</cognom1>
+      </actriu>
+    </repartiment>
+
+    <productora>Warner Bros</productora>
+
+    <generes>
+      <genere>Ciencia ficcion</genere>
+      <genere>Accion</genere>
+      <genere>Robots</genere>
+      <genere>Monstruos</genere>
+    </generes>
+
+    <sinopsi> Todo comienza cuando legiones de monstruosas criaturas, denominadas Kaiju, comienzan a salir del mar, se inicia una guerra que acabará con millones de vidas y que consumirá los recursos de la humanidad durante interminables años. Para combatir a los Kaiju gigantes diseñan un tipo especial de arma: enormes robots, llamados Jaegers, que son controlados simultáneamente por dos pilotos cuyas mentes están unidas, ellos seran los que deberan de salva la humanidad pilotando estas maquinas tan fascinantes. </sinopsi>
+  </film>
+
+
+ <film>
+    <titol llengua="castellà">Funny Games</titol>
+    <titoloriginal llengua="inglés">Funny Games</titoloriginal>
+    <any>2007</any>
+    <durada unitat="minuts">111</durada>
+    <pais>Estados Unidos</pais>
+ 
+
+    <direccio>
+      <director>
+        <nom>Michael</nom>
+        <cognom1>Haneke</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Michael</nom>
+        <cognom1>Haneke</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>W.A</nom>
+        <cognom1>Mozart</cognom1>
+      </compositor>
+      <compositor>
+        <nom>G.F</nom>
+        <cognom1>Handel</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Darius</nom>
+        <cognom1>Khondji</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Tim</nom>
+        <cognom1>Roth</cognom1>
+      </actor>
+      <actriu>
+        <nom>Naomi</nom>
+        <cognom1>Watts</cognom1>
+     </actriu>
+    </repartiment>
+
+    <productora>Coproducción USA-GB-Francia</productora>
+
+    <generes>
+      <genere>Thriller</genere>
+      <genere>Terror</genere>
+    </generes>
+
+    <sinopsi>Anna (Naomi Watts), su marido George (Tim Roth) y su hijo de diez años (Devon Gearhart) se van a descansar a su residencia de vacaciones situada al lado de un lago. Nada más llegar, aparecen dos jóvenes (Michael Pitt y Brady Corbet) aparentemente muy educados que dicen ser amigos de los vecinos y que les piden unos huevos. Remake norteamericano (casi una copia) de la película homónima de Haneke, de 1997.</sinopsi>
+  </film>
+
+  <film>
+    <titol llengua="castellà">El Señor de los Anillos: La Comunidad del Anillo</titol>
+    <titoloriginal llengua="anglés" variant="EUA">The Lord of the Rings: The Fellowship of the Ring</titoloriginal>
+
+    <any>2001</any>
+    <durada unitat="minuts">180</durada>
+    <pais>Estados Unidos</pais>
+
+    <direccio>
+      <director>
+        <nom>Peter</nom>
+        <cognom1>Jackson</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Frances</nom>
+        <cognom1>Walsh</cognom1>
+      </guionista>
+      <guionista>
+        <nom>Philippa</nom>
+        <cognom1>Boyens</cognom1>
+      </guionista>
+      <guionista>
+        <nom>Peter</nom>
+        <cognom1>Jackson</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Howard</nom>
+        <cognom1>Shore</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Andrew</nom>
+        <cognom1>Lesnie</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Elijah</nom>
+        <cognom1>Wood</cognom1>
+      </actor>
+      <actriu>
+        <nom>Liv</nom>
+        <cognom1>Tyler</cognom1>
+      </actriu>
+    </repartiment>
+
+    <productora>New Line Cinema / Wingnut Films</productora>
+
+    <generes>
+      <genere>Aventuras</genere>
+      <genere>Acción</genere>
+    </generes>
+
+    <sinopsi>En la Tierra Media, el Señor Oscuro Saurón ordenó a los Elfos que forjaran los Grandes Anillos de Poder. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Pero Saurón también forjó, en secreto, el Anillo Único, que tiene el poder de esclavizar toda la Tierra Media. Con la ayuda de sus amigos y de valientes aliados, el joven hobbit Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el malvado Sauron ordena la persecución del grupo, compuesto por Frodo y sus leales amigos hobbits, un mago, un hombre, un elfo y un enano. La misión es casi suicida pero necesaria, pues si Sauron con su ejército de orcos lograra recuperar el Anillo, sería el final de la Tierra Media.</sinopsi>
+  </film>
+
+<film>
+    <titol llengua="castellà" variant="ingles">El retrato de Dorian Gray</titol>
+	<titoloriginal llengua="anglés" variant="EUA">The Picture of Dorian Gray</titoloriginal>
+    <any>2009</any>
+    <durada unitat="minuts">112</durada>
+    <pais>Reino Unido</pais>
+ 
+
+    <direccio>
+      <director>
+        <nom>Oliver</nom>
+        <cognom1>Parker</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Toby</nom>
+        <cognom1>Finlay</cognom1>
+      </guionista>
+      <guionista>
+        <nom>Oscar</nom>
+        <cognom1>Wilde</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Charlie</nom>
+        <cognom1>Mole</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Guy</nom>
+        <cognom1>Bensley</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Ben</nom>
+        <cognom1>Barnes</cognom1>
+      </actor>
+      <actor>
+        <nom>Colin</nom>
+        <cognom1>Firth</cognom1>
+     </actor> 
+	  <actriu>
+        <nom>Rebecca</nom>
+        <cognom1>Hall</cognom1>
+     </actriu>
+	  
+	        <actor>
+        <nom>Ben</nom>
+        <cognom1>Chaplin</cognom1>
+     </actor>
+
+      <actriu>
+        <nom>Emilia</nom>
+        <cognom1>Fox</cognom1>
+     </actriu>
+    </repartiment>
+
+    <productora>Alliance Films Reino Unido, Canadá, España</productora>
+
+    <generes>
+      <genere>Terror</genere>
+      <genere>històrica</genere>
+    </generes>
+
+    <sinopsi>A finales del siglo XIX, Dorian Gray (Ben Barnes)hereda una mansión en la ciudad de Londres. Su juventud lo lleva a poseer una belleza envidiable, un halo de inocencia y un carisma abrasador. Cuando Dorian ve el cuadro en el que lo ha retratado un artista de sociedad realiza un pacto para estar siempre igual.</sinopsi>
+  </film>
+
+  <film>
+    <titol llengua="castellà">Zombies Party</titol>
+    <titoloriginal llengua="anglés" variant="EUA">Shaun of the Dead</titoloriginal>
+
+    <any>2004</any>
+    <durada unitat="minuts">99</durada>
+    <pais>Reino Unido</pais>
+
+    <direccio>
+      <director>
+        <nom>Edgar</nom>
+        <cognom1>Wright</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Simon</nom>
+        <cognom1>Pegg</cognom1>
+      </guionista>
+	  <guionista>
+        <nom>Edgar</nom>
+        <cognom1>Wright</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Dan</nom>
+        <cognom1>Mudford</cognom1>
+      </compositor>
+	  <compositor>
+        <nom>Pete</nom>
+        <cognom1>Woodhead</cognom1>
+      </compositor>
+	</musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>David</nom>
+        <cognom1>Dunlap</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Simon</nom>
+        <cognom1>Pegg</cognom1>
+      </actor>
+      <actor>
+        <nom>Nick</nom>
+        <cognom1>Frost</cognom1>
+      </actor>
+	  <actriu>
+	    <nom>Kate</nom>
+        <cognom1>Ashfield</cognom1>
+      </actriu>
+	    <actriu>
+	    <nom>Lucy</nom>
+        <cognom1>Davis</cognom1>
+      </actriu>
+    </repartiment>
+
+    <productora>Studio Canal</productora>
+
+    <generes>
+      <genere>Comedia</genere>
+      <genere>Terror</genere>
+      <genere>romanç</genere>
+    </generes>
+
+    <sinopsi>La película cuenta la historia de Shaun (Simon Pegg), un vendedor que vive en Londres, inmerso en la rutina de la ciudad. El protagonista vive junto a Ed (Nick Frost) y Pete (Peter Serafinowicz). Las actividades que realizan a diario es jugar TimeSplitters 2 en la Playstation 2 e ir a su pub favorito, el Winchester, hasta que un dia se producce un accidente militar y los protagonistas se ven envueltos en una trama en la cual deben sobrevivir y salvar a sus seres queridos.</sinopsi>
+  </film>
+
+
+<film>
+    <titol llengua="castella">la vida es bella</titol>
+    <titoloriginal llengua="italiana">La vita è bella</titoloriginal>
+    <any>1997</any>
+    <durada unitat="minuts">117</durada>
+    <pais>italia</pais>
+ 
+
+    <direccio>
+      <director>
+        <nom>Roberto</nom>
+        <cognom1>Benigni</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Roberto</nom>
+        <cognom1>Benigni</cognom1>
+      </guionista>
+      <guionista>
+        <nom>Vincenzo</nom>
+        <cognom1>cerami</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Nicola</nom>
+        <cognom1>Piovani</cognom1>
+      </compositor>
+     </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Tonino</nom>
+        <cognom1>Delli Colli</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+       <nom>Roberto</nom>
+        <cognom1>Benigni</cognom1>
+      </actor>
+      <actriu>
+        <nom>Nicoletta</nom>
+        <cognom1>Braschi</cognom1>
+     </actriu>
+    </repartiment>
+
+    <productora>Miramax International</productora>
+
+    <generes>
+      <genere>drama</genere>
+      <genere>històrica</genere>
+    </generes>
+
+    <sinopsi>En 1939, a punto de estallar la Segunda Guerra Mundial (1939-1945), el extravagante Guido llega a Arezzo (Toscana) con la intención de abrir una librería. Allí conoce a Dora y, a pesar de que es la prometida del fascista Ferruccio, se casa con ella y tiene un hijo. Al estallar la guerra, los tres son internados en un campo de exterminio, donde Guido hará lo imposible para hacer creer a su hijo que la terrible situación que están padeciendo es tan sólo un juego</sinopsi>
+    
+    </film>
+  
+  
+   <film>
+    <titol llengua="angles">2 Guns</titol>
+    <any>2013</any>
+    <durada unitat="minuts">109</durada>
+    <pais>USA</pais>
+ 
+
+    <direccio>
+      <director>
+        <nom>Baltasar</nom>
+        <cognom1>Kormákur</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Blake</nom>
+        <cognom1>Masters</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Clinton</nom>
+        <cognom1>Shorter</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Oliver</nom>
+        <cognom1>Wood</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Mark </nom>
+        <cognom1>Wahlberg</cognom1>
+      </actor>
+       <actor>
+        <nom>Denzel</nom>
+        <cognom1>Washington</cognom1>
+      </actor>
+      <actriu>
+        <nom>Paula</nom>
+        <cognom1>Patton</cognom1>
+     </actriu>
+    </repartiment>
+
+    <productora>Universal Pictures</productora>
+
+    <generes>
+      <genere>Thriller</genere>
+      <genere>Accion</genere>
+    </generes>
+
+    <sinopsi>Un agente de la DEA, Bobby Trench (Denzel Washington), y un oficial de la Inteligencia Naval, Michael Stigman (Mark Wahlberg), consiguen robarle 43 millones de dólares a la mafia. El problema consiste en que en realidad ese dinero no era de la organización criminal, sino de la CIA. Adaptación al cine de una novela gráfica de Steven Grant.</sinopsi>
+    
+    </film>
+    
+<film>
+    <titol llengua="castellà">Alien, el octavo pasajero</titol>
+    <titoloriginal llengua="anglés" variant="EUA">Alien</titoloriginal>
+    <any>1979</any>
+    <durada unitat="minuts">116</durada>
+    <pais>Estados Unidos</pais>
+ 
+    <direccio>
+      <director>
+        <nom>Ridley</nom>
+        <cognom1>Scott</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Dan</nom>
+        <cognom1>O'Bannon</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Jerry</nom>
+        <cognom1>Goldsmith</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Dereck</nom>
+        <cognom1>Vanlint</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>John</nom>
+        <cognom1>Hurt</cognom1>
+      </actor>
+      <actriu>
+        <nom>Sigourney</nom>
+        <cognom1>Weaver</cognom1>
+     </actriu>
+    </repartiment>
+
+    <productora>20th Century Fox / Brandywine Productions</productora>
+
+    <generes>
+      <genere>Ciencia ficción</genere>
+      <genere>Terror</genere>
+    </generes>
+
+    <sinopsi>De regreso a la Tierra, la nave de carga Nostromo interrumpe su viaje y despierta a sus siete tripulantes. El ordenador central, MADRE, ha detectado la misteriosa transmisión de una forma de vida desconocida, procedente de un planeta cercano. La nave se dirige entonces al extraño planeta para investigar el origen de la comunicación.</sinopsi>
+  </film>
+ <film>
+    <titol llengua="castellà">Django desencadenado</titol>
+    <titoloriginal llengua="anglés" variant="EUA">Django Unchained</titoloriginal>
+    <any>2012</any>
+    <durada unitat="minuts">165</durada>
+    <pais>Estados Unidos</pais>
+ 
+    <direccio>
+      <director>
+        <nom>Quentin</nom>
+        <cognom1>Tarantino</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Quentin</nom>
+        <cognom1>Tarantino</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Varios</nom>
+        <cognom1>Varios</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Robert</nom>
+        <cognom1>Richardson</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Jamie</nom>
+        <cognom1>Foxx</cognom1>
+      </actor>
+      <actriu>
+        <nom>Kerry</nom>
+        <cognom1>Washington</cognom1>
+     </actriu>
+    </repartiment>
+
+    <productora>Sony Pictures / The Weinstein Company</productora>
+
+    <generes>
+      <genere>Western</genere>
+    </generes>
+
+    <sinopsi>En Texas, dos años antes de estallar la Guerra Civil Americana, King Schultz (Christoph Waltz), un cazarecompensas alemán que le sigue la pista a unos asesinos para cobrar por sus cabezas, le promete al esclavo negro Django (Jamie Foxx) dejarlo en libertad si le ayuda a atraparlos. Él acepta pues luego quiere ir a buscar a su esposa Broomhilda (Kerry Washington), una esclava que están en una plantación del terrateniente Calvin Candie (Leonardo DiCaprio).</sinopsi>
+  </film>
+
+
+  
+  <film>
+    <titol llengua="castellà">Celda 211</titol>
+    <any>2009</any>
+    <durada unitat="minuts">110</durada>
+    <pais>España</pais>
+ 
+
+    <direccio>
+      <director>
+		<nom>Daniel</nom>
+        <cognom1>Monzón</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Daniel</nom>
+        <cognom1>Monzón</cognom1>
+      </guionista>
+      <guionista>
+        <nom>Jorge</nom>
+        <cognom1>Guerricaechevarría</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Roque</nom>
+        <cognom1>Baños</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Carles</nom>
+        <cognom1>Gusi</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Luis</nom>
+        <cognom1>Tosar</cognom1>
+      </actor>
+      <actor>
+       <nom>Alberto</nom>
+       <cognom1>Ammann</cognom1>
+      </actor>
+	  <actor>
+	   <nom>Antonio</nom>
+	   <cognom1>Resines</cognom1>
+	  </actor>
+    </repartiment>
+
+    <productora>Coproducción España-Francia; La Fabrique de Films / Morena Films / Telecinco Cinema / Vaca Films</productora>
+
+    <generes>
+      <genere>drama</genere>
+      <genere>thriller</genere>
+    </generes>
+
+    <sinopsi>El día en que Juan (Alberto Ammann) empieza a trabajar en su nuevo destino como funcionario de prisiones, se ve atrapado en un motín carcelario. Decide entonces hacerse pasar por un preso más para salvar su vida y para poner fin a la revuelta, encabezada por el temible Malamadre (Luis Tosar). Lo que ignora es que el destino le ha preparado una encerrona.</sinopsi>
+  </film>
+  
+  <film>
+    <titol llengua="castellà">Capitán Phillips</titol>
+	<titoloriginal llengua="anglés">Captain Phillips</titoloriginal>
+    <any>2013</any>
+    <durada unitat="minuts">135</durada>
+    <pais>Estados Unidos</pais>
+ 
+
+    <direccio>
+      <director>
+		<nom>Paul</nom>
+        <cognom1>Greengrass</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Billy</nom>
+        <cognom1>Ray</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Henry</nom>
+        <cognom1>Jackman</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Barry</nom>
+        <cognom1>Ackroyd</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Tom</nom>
+        <cognom1>Hanks</cognom1>
+      </actor>
+    </repartiment>
+
+    <productora>Columbia Pictures / Michael De Luca Productions / Scott Rudin Productions / Trigger Street Productions</productora>
+
+    <generes>
+      <genere>drama</genere>
+      <genere>aventures</genere>
+	  <genere>thriller</genere>
+    </generes>
+
+    <sinopsi>En el año 2009, en aguas internacionales a 145 millas de la costa de Somalia, en el cuerno de África, el buque carguero “Maersk Alabama”, al mando del capitán de la marina mercante estadounidense, Richard Phillips (Tom Hanks), fue abordado y retenido por piratas somalíes, siendo el primer barco norteamericano secuestrado en los últimos doscientos años.</sinopsi>
+  </film>
+
+
+ <film>
+    <titol llengua="castellà">Braveheart</titol>
+    <titoloriginal llengua="àngles" variant="EUA">Braveheart</titoloriginal>
+    <any>1995</any>
+    <durada unitat="minuts">177</durada>
+    <pais>Estados Unidos, Irlanda</pais>
+ 
+
+    <direccio>
+      <director>
+        <nom>Mel</nom>
+        <cognom1>Gibson</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Randall</nom>
+        <cognom1>Wallace</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>James</nom>
+        <cognom1>Horner</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>John</nom>
+        <cognom1>Toll</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Mel</nom>
+        <cognom1>Gibson</cognom1>
+      </actor>
+      <actriu>
+        <nom>Sophie</nom>
+        <cognom1>Marceau</cognom1>
+     </actriu>
+    </repartiment>
+
+    <productora>20th Century Fox</productora>
+
+    <generes>
+      <genere>drama</genere>
+      <genere>històrica</genere>
+    </generes>
+
+    <sinopsi>En el siglo XIV, los escoceses viven oprimidos por los gravosos tributos y las injustas leyes impuestas por los ingleses. William Wallace es un joven escocés que regresa a su tierra despues de muchos años de ausencia. Siendo un niño, toda su familia fue asesinada por los ingleses, razón por la cual se fue a vivir lejos con un tío suyo.</sinopsi>
+  </film>
+
+  <film>
+    <titol llengua="castellà">El efecto mariposa</titol>
+    <titoloriginal llengua="àngles" variant="EUA">The Butterfly Effect</titoloriginal>
+    <any>2004</any>
+    <durada unitat="minuts">113</durada>
+    <pais>Estados Unidos</pais>
+ 
+
+    <direccio>
+      <director>
+        <nom>Eric</nom>
+        <cognom1>Bress</cognom1>
+      </director>
+      <director>
+        <nom>J. Mayckye</nom>
+        <cognom1>Gruber</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Eric</nom>
+        <cognom1>Bress</cognom1>
+      </guionista>
+      <guionista>
+        <nom>J. Mayckye</nom>
+        <cognom1>Gruber</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Michael</nom>
+        <cognom1>Suby</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Matthew</nom>
+        <cognom1>Leonetti</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Ashton</nom>
+        <cognom1>Kutcher</cognom1>
+      </actor>
+      <actriu>
+        <nom>Amy</nom>
+        <cognom1>Smart</cognom1>
+     </actriu>
+    </repartiment>
+
+    <productora>New Line Cinema</productora>
+
+    <generes>
+      <genere>ciencia ficción</genere>
+      <genere>fantástico</genere>
+    </generes>
+
+    <sinopsi>Evan Treborn, un joven que se está esforzando por superar unos dolorosos recuerdos de su infancia, descubre una técnica que le permite viajar atrás en el tiempo y ocupar su cuerpo de niño para poder cambiar el curso de su dolorosa historia. Sin embargo también descubre que cualquier mínimo cambio en el pasado altera enormemente su futuro.</sinopsi>
+  </film>
+
+<film>
+    <titol llengua="Castellano" variant="españa">La educacion de las hadas</titol>
+    <any>2006</any>
+    <durada unitat="minuts">103</durada>
+    <pais>España</pais>
+     <direccio>
+      <director>
+        <nom>Jose Luis</nom>
+        <cognom1>Cuerda</cognom1>
+      </director>
+    </direccio>
+    <guio>
+      <guionista>
+        <nom>Didier</nom>
+        <cognom1>Van Cauwelaert</cognom1>
+      </guionista>
+    </guio>
+    <musica>
+      <compositor>
+        <nom>Lucio</nom>
+        <cognom1>Godoy</cognom1>
+      </compositor>
+    </musica>
+    <fotografia>
+      <fotograf>
+        <nom>Hans</nom>
+        <cognom1>Burmann</cognom1>
+      </fotograf>
+    </fotografia>
+    <repartiment>
+      <actor>
+        <nom>Ricardo</nom>
+        <cognom1>Darín</cognom1>
+      </actor>
+      <actriu>
+        <nom>Irene</nom>
+        <cognom1>Jacob</cognom1>
+     </actriu>
+    </repartiment>
+    <productora>Coproducción España-Francia-Portugal-Argentina</productora>
+    <generes>
+      <genere>drama</genere>
+    </generes>
+    <sinopsi>En un vuelo de Alicante a Barcelona, Nicolás encuentra no sólo a Ingrid, la mujer de su vida, sino también al hijo que siempre habría querido tener. Él es inventor de juguetes; ella, viuda reciente de un capitán de aviación muerto en Iraq, es una ornitóloga que estudia en Cataluña las migraciones de las palomas torcaces. Y Raúl, su hijo de ocho años, es un niño dotado de una gran fantasia. La historia de amor de los tres será perfecta. Sin embargo, Ingrid, de repente, decide que todo se ha acabado. (FILMAFFINITY)</sinopsi>
+  </film>
+  <film>
+    <titol llengua="Castellano">Yo, Frankenstein</titol>
+    <titoloriginal llengua="Ingles" variant="EUA">I, Frankenstein</titoloriginal>
+    <any>2014</any>
+    <durada unitat="minuts">93</durada>
+    <pais>EEUU</pais>
+     <direccio>
+      <director>
+        <nom>Stuart</nom>
+        <cognom1>Beattie</cognom1>
+      </director>
+    </direccio>
+    <guio>
+      <guionista>
+        <nom>Kevin</nom>
+        <cognom1>Grevioux</cognom1>
+      </guionista>
+    </guio>
+    <musica>
+      <compositor>
+        <nom>Reinhold</nom>
+        <cognom1>Heil</cognom1>
+      </compositor>
+      <compositor>
+        <nom>Johnny</nom>
+        <cognom1>Klimek</cognom1>
+      </compositor>
+    </musica>
+    <fotografia>
+      <fotograf>
+        <nom>Ross</nom>
+        <cognom1>Emery</cognom1>
+      </fotograf>
+    </fotografia>
+    <repartiment>
+      <actor>
+        <nom>Aaron</nom>
+        <cognom1>Eckhart</cognom1>
+      </actor>
+      <actriu>
+        <nom>Yvonne</nom>
+        <cognom1>Strahovski</cognom1>
+     </actriu>
+    </repartiment>
+    <productora>Lionsgate / Hopscotch Features / Lakeshore Entertainment</productora>
+    <generes>
+      <genere>Fantástico</genere>
+      <genere>Terror</genere>
+    </generes>
+    <sinopsi>Adaptación del cómic de Dark Storm pero ambientada en un presente distópico en el que hay una guerra entre ángeles y demonios, y en el que el Frankenstein es, por una vez, un héroe que se enfrenta con todo tipo de monstruos: Vampiros, Hombres Lobo y Fantasmas. (FILMAFFINITY)</sinopsi>
+  </film>
+
+<film>
+<titol llengua="castellà">La Isla</titol>
+  <titoloriginal llengua="anglés" variant="EUA">The Island</titoloriginal>
+    <any>2005</any>
+    <durada unitat="minuts">136</durada>
+    <pais>Estats Units</pais>
+ 
+
+    <direccio>
+      <director>
+        <nom>Michael</nom>
+        <cognom1>Bay</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Caspian</nom>
+        <cognom1>Tredwell-Owen</cognom1>
+      </guionista>
+      <guionista>
+        <nom>Roberto</nom>
+        <cognom1>Orci</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Steve</nom>
+        <cognom1>Jablonsky</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Mauro</nom>
+        <cognom1>Fiore</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Ewan</nom>
+        <cognom1>McGregor</cognom1>
+      </actor>
+      <actriu>
+        <nom>Scarlet</nom>
+        <cognom1>Johansson</cognom1>
+     </actriu>
+    </repartiment>
+
+    <productora>DreamWorks Pictures</productora>
+
+    <generes>
+      <genere>acciò</genere>
+      <genere>fantàstic</genere>
+    </generes>
+
+    <sinopsi>A mediados del siglo XXI, Lincoln Seis-Echo (Ewan McGregor) y Jordan Dos-Delta (Scarlett Johansson) son dos de los miles de sobrevivientes de una catástrofe ecológica que extinguió a toda la humanidad. Viven en un complejo bajo tierra junto al resto de los sobrevivientes y con la esperanza de ser seleccionados para ir a "La isla", el único lugar en el mundo que no fue contaminado. Pero la curiosidad de Lincoln le llevará a descubrir un secreto que pondrá en peligro su vida y la del resto de sus compañeros. Lo único que puede hacer es junto a Jordan, intentar sobrevivir en un mundo nuevo, sabiendo que son perseguidos por una extraña organización que quiere verles muertos.</sinopsi>
+
+  </film>
+  
+  <film>
+  <titol llengua="castellà">Terminator 2: El juicio final</titol>
+    <titoloriginal llengua="anglés" variant="EUA">Terminator 2: Judgment Day</titoloriginal>
+    <any>1991</any>
+    <durada unitat="minuts">137</durada>
+    <pais>Estats Units</pais>
+ 
+
+    <direccio>
+      <director>
+        <nom>James</nom>
+        <cognom1>Cameron</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>James</nom>
+        <cognom1>Cameron</cognom1>
+      </guionista>
+      <guionista>
+        <nom>William</nom>
+        <cognom1>Wisher Jr.</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Brad</nom>
+        <cognom1>Fiedel</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Adam</nom>
+        <cognom1>Greenberg</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Arnold</nom>
+        <cognom1>Schwarzenegger</cognom1>
+      </actor>
+      <actriu>
+        <nom>Linda</nom>
+        <cognom1>Hamilton</cognom1>
+     </actriu>
+    </repartiment>
+
+    <productora>T2 Productions</productora>
+
+    <generes>
+      <genere>acciò</genere>
+    </generes>
+
+    <sinopsi>Sarah Connor, la madre soltera del rebelde John Connor, está ingresada en un psiquiátrico. Algunos años antes, un viajero del tiempo le había revelado que su hijo sería el salvador de la humanidad en un futuro dominado por las máquinas. Se convirtió entonces en una especie de guerrera y educó a su hijo John en tácticas de supervivencia. Esta es la razón por la que está recluida en un manicomio. Cuando un nuevo androide mejorado, un T-1000, llega del futuro para asesinar a John, un viejo modelo T-800 será enviado para protegerle.</sinopsi>
+
+  </film>
+
+<film>
+    <titol llengua="castellano">El lobo de Wall Street</titol>
+    <titoloriginal llengua="ingles" variant="EUA">The Wolf of Wall Street</titoloriginal>
+
+    <any>2013</any>
+    <durada unitat="minuts">250</durada>
+    <pais>EEUU</pais>
+
+    <direccio>
+      <director>
+        <nom>Martin</nom>
+        <cognom1>Scorsese</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+   <guionista>
+        <nom>Terence</nom>
+        <cognom1>Winter</cognom1>
+   </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Howard</nom>
+        <cognom1>Shore</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Rodrigo</nom>
+        <cognom1>Prieto</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Leonardo</nom>
+        <cognom1>DiCaprio</cognom1>
+      </actor>
+      <actriu>
+        <nom>Jonah</nom>
+        <cognom1>Hill</cognom1>
+      </actriu>
+    </repartiment>
+
+    <productora>Paramount Pictures</productora>
+
+    <generes>
+      <genere>comedia</genere>
+      <genere>drama</genere>
+      <genere>biografica</genere>
+    </generes>
+
+    <sinopsi>Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort (Leonardo DiCaprio).</sinopsi>
+  </film>
+
+  <film>
+    <titol llengua="castellano">El Atlas de las nubes</titol>
+    <titoloriginal llengua="ingles" variant="EEUU">Cloud Atlas</titoloriginal>
+
+    <any>2012</any>
+    <durada unitat="minuts">190</durada>
+    <pais>EEUU</pais>
+
+    <direccio>
+      <director>
+        <nom>Tom</nom>
+        <cognom1>Tykwer</cognom1>
+      </director>
+    </direccio>
+
+    <guio>
+      <guionista>
+        <nom>Andy</nom>
+        <cognom1> Wachowski</cognom1>
+      </guionista>
+    </guio>
+
+    <musica>
+      <compositor>
+        <nom>Reinhold</nom>
+        <cognom1>Heil</cognom1>
+      </compositor>
+    </musica>
+
+    <fotografia>
+      <fotograf>
+        <nom>Frank</nom>
+        <cognom1>Griebe</cognom1>
+      </fotograf>
+    </fotografia>
+
+    <repartiment>
+      <actor>
+        <nom>Tom</nom>
+        <cognom1>Hanks</cognom1>
+      </actor>
+      <actriu>
+        <nom>Halle</nom>
+        <cognom1>Berry</cognom1>
+      </actriu>
+    </repartiment>
+
+    <productora>X-Filme Creative Pool</productora>
+
+    <generes>
+      <genere>ciencia-ficcion</genere>
+      <genere>drama</genere>
+      <genere>romance</genere>
+    </generes>
+
+    <sinopsi>Conjunto de varias historias que se desarrollan en el pasado, el presente y el futuro. Cada una de ellas está contenida en la anterior, y todas están enlazadas entre sí por pequeños detalles.</sinopsi>
+  </film>
+</films>
