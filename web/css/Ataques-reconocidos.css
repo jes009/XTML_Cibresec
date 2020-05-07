@@ -1,12 +1,12 @@
-article > * {
+#article > * {
     min-width: 0;
 }
 
-article > h1 {
+#article > h1 {
     font-family: Lucida Grande;
 }
 
-article > p {    
+#article > p {    
     --x-height-multiplier: 0.375;
     --baseline-multiplier: 0.17;
     font-family: Georgia,Cambria,"Times New Roman",Times,serif;
@@ -21,7 +21,7 @@ article > p {
     -webkit-font-smoothing: antialiased;
 }
 
-article > .aside {
+#article > .aside {
     font-family: Lucida Grande;
     margin: 30px 20px;
     color: #666;
@@ -59,25 +59,25 @@ figure figcaption {
     font-size: 0.8em;
 }
 
-article {
+#article {
     display: grid;
     grid-template-columns: 1fr 1fr 10px 440px 10px 1fr 1fr;
 }
 
-article > * {
+#article > * {
     grid-column: 4;
 }
 
-article > figure {
+#article > figure {
     grid-column: 1 / -1;
     margin: 20px 0;
 }
 
-article > .aside {
+#article > .aside {
     grid-column: 5 / -1;
 }
 
-article > blockquote {
+#article > blockquote {
     grid-column: 3 / span 2;
     margin: 0px 0;
     color: #666;
