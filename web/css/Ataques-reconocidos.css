@@ -49,11 +49,11 @@ pre > code {
     padding: 0;
 }
 
-figure {
+#figure {
     margin: 0;
 }
 
-figure figcaption {
+#figure figcaption {
     color: #666;
     font-style: italic;
     font-size: 0.8em;
@@ -68,7 +68,7 @@ figure figcaption {
     grid-column: 4;
 }
 
-#article > figure {
+#article > #figure {
     grid-column: 1 / -1;
     margin: 20px 0;
 }
