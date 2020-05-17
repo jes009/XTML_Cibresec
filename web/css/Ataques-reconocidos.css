@@ -7,9 +7,9 @@
 }
 
 #article > p {    
-    --x-height-multiplier: 0.375;
-    --baseline-multiplier: 0.17;
-    font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+    -x-height-multiplier: 0.375;
+    -baseline-multiplier: 0.17;
+    font-family:"Georgia","Cambria","Times New Roman","Times","serif";
     letter-spacing: .01rem;
     font-weight: 400;
     font-style: normal;
@@ -87,7 +87,7 @@ pre > code {
 
 #navigation { float:right; }
 #navigation ul{ float:left; list-style-type: none; padding-top:37px; font-size:14px;}
-#navigation ul li{ float:left; display:inline; height:21px; images/nav-border.gif) repeat-y right 0; padding:0 20px 0 0; margin-right:20px; position:relative; }
+#navigation ul li{ float:left; display:inline; height:21px; padding:0 20px 0 0; margin-right:20px; position:relative; }
 #navigation ul li.last{background:transparent; padding-right:0; margin-right:0; }
 #navigation ul li a{ float:left; color:#000; text-decoration: none;}
 
