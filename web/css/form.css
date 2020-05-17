@@ -9,7 +9,7 @@
 
 #navigation { float:right; }
 #navigation ul{ float:left; list-style-type: none; padding-top:37px; font-size:14px;}
-#navigation ul li{ float:left; display:inline; height:21px; images/nav-border.gif) repeat-y right 0; padding:0 20px 0 0; margin-right:20px; position:relative; }
+#navigation ul li{ float:left; display:inline; height:21px; padding:0 20px 0 0; margin-right:20px; position:relative; }
 #navigation ul li.last{background:black; padding-right:0; margin-right:0; }
 #navigation ul li a{ float:left; color: white; text-decoration: none;}
 
