@@ -44,7 +44,7 @@ body { min-width:1030px;}
 
 #navigation { float:right; }
 #navigation ul{ float:left; list-style-type: none; padding-top:37px; font-size:14px;}
-#navigation ul li{ float:left; display:inline; height:21px; images/nav-border.gif) repeat-y right 0; padding:0 20px 0 0; margin-right:20px; position:relative; }
+#navigation ul li{ float:left; display:inline; height:21px; padding:0 20px 0 0; margin-right:20px; position:relative; }
 #navigation ul li.last{background:transparent; padding-right:0; margin-right:0; }
 #navigation ul li a{ float:left; color:#fff; text-decoration: none;}
 
@@ -80,8 +80,8 @@ body { min-width:1030px;}
 #slider-navigation ul li a em{ position:absolute; top:43px; left:20px; }
 
 #slider-navigation ul li a em.ico1 { width:58px; height:59px; ; left:28px;}
-#slider-navigation ul li a em.ico2 { width:41px; height:61px; ); left:36px;}
-#slider-navigation ul li a em.ico3 { width:71px; height:64px; )}
+#slider-navigation ul li a em.ico2 { width:41px; height:61px;left:36px;}
+#slider-navigation ul li a em.ico3 { width:71px; height:64px;}
 
 #slider-navigation ul li a.active,
 #slider-navigation ul li a:hover {color:#a6a6a6; }
